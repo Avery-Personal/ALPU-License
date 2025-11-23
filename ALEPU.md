@@ -1,6 +1,6 @@
-ALEPU Software License v1.0
-(Asuka License for Extensive Protective Use)
-Copyright 2025 © Asuka Org
+ALEPU Software License v1.0  
+(Asuka License for Extensive Protective Use)  
+Copyright 2025 © Asuka Org  
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to use,
