@@ -1,6 +1,6 @@
-ALPU Software License v1.2
-(Asuka License for Protective Use)
-Copyright 2025 © Asuka Org
+ALPU Software License v1.2  
+(Asuka License for Protective Use)  
+Copyright 2025 © Asuka Org  
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to use,
